@@ -34,5 +34,9 @@ No third-party libraries are required. The script uses only **Python’s standar
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/downloads-organizer.git
+git clone https://github.com/zabaladuran/organizador-de-archivos-python.git
 cd downloads-organizer
+
+### 2. Run the script
+
+python organizer.py
